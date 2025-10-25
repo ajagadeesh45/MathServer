@@ -142,7 +142,7 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
-![alt text](<jaga/mathapp/templates/mathapp/Screenshot 2025-10-25 140131.png>)
+![alt text](<jaga/mathapp/templates/mathapp/Screenshot 2025-10-25 140051.png>)
 
 
 ## RESULT:
